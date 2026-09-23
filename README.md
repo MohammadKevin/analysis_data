@@ -12,25 +12,25 @@
 
 ---
 
-## 📌 Overview
+## Overview
 A Python statistical script designed to process student grade datasets (`nilai_siswa.csv`), compute performance percentiles, and generate evaluation summaries.
 
 ---
 
-## ✨ Key Features
+## Key Features
 - Student score aggregation and grade ranking calculations
 - Class average and performance threshold evaluations
 - Clean terminal-based statistical summary output
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Language**: Python 3
 - **Libraries**: Pandas, NumPy
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 ```text
 analysis_data/
 ├── analisis_data.py    # Main evaluation logic
@@ -39,7 +39,7 @@ analysis_data/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 Make sure you have the required runtimes and tools installed on your machine:
@@ -56,7 +56,7 @@ python analisis_data.py
 
 ---
 
-## 👤 Author
+## Author
 **Mohammad Kevin Arif Rudianto**
 - **GitHub:** [@MohammadKevin](https://github.com/MohammadKevin)
 - **Portfolio:** [portfolio-mohammadkevin.vercel.app](https://portfolio-mohammadkevin.vercel.app)
@@ -65,9 +65,9 @@ python analisis_data.py
 
 ---
 
-## 📄 License
+## License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 <div align="center">
-⭐️ If you found this repository useful, please consider giving it a star!
+If you found this repository useful, please consider giving it a star!
 </div>
