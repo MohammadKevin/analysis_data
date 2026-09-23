@@ -1,35 +1,73 @@
-Analisis Data (Ringkas)
+<div align="center">
 
-Rata-rata nilai per mata pelajaran:
+# Student Grade Data Analysis
 
-Matematika: 91.5 ✅ (tertinggi)
+<p>Python Statistical Analysis & Student Evaluation Engine</p>
 
-Fisika: 88.25
+![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+![Python](https://img.shields.io/badge/Python-blue?style=flat-square) ![Pandas](https://img.shields.io/badge/Pandas-blue?style=flat-square) ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-blue?style=flat-square) ![Statistics](https://img.shields.io/badge/Statistics-blue?style=flat-square)
 
-Bahasa Inggris: 84.33
+</div>
 
-Bahasa Indonesia: 84.25
+---
 
-Produktif: 84.0
+## 📌 Overview
+A Python statistical script designed to process student grade datasets (`nilai_siswa.csv`), compute performance percentiles, and generate evaluation summaries.
 
-Nilai terendah: 75 (Bahasa Indonesia & Fisika)
+---
 
-Manfaat visualisasi:
+## ✨ Key Features
+- ⚡ **Student score aggregation and grade ranking calculations**: Student score aggregation and grade ranking calculations
+- ⚡ **Class average and performance threshold evaluations**: Class average and performance threshold evaluations
+- ⚡ **Clean terminal-based statistical summary output**: Clean terminal-based statistical summary output
 
-Membandingkan rata-rata nilai dengan cepat
+---
 
-Menunjukkan mata pelajaran terkuat dan terlemah
+## 🛠️ Tech Stack
+- **Language**: Python 3
+- **Libraries**: Pandas, NumPy
 
-Mempermudah melihat pola nilai siswa
+---
 
-Refleksi:
+## 📁 Project Structure
+```text
+analysis_data/
+├── analisis_data.py    # Main evaluation logic
+└── nilai_siswa.csv     # Student grade dataset
+```
 
-Pelajaran baru: Mengolah data menjadi informasi mudah dipahami, menghitung rata-rata, nilai tertinggi, dan terendah.
+---
 
-Kesulitan: Error saat menampilkan grafik di lingkungan yang tidak mendukung GUI.
+## 🚀 Getting Started
 
-Peran AI: Membantu perhitungan, membuat tabel dan grafik otomatis, serta interpretasi data lebih cepat dan akurat.
+### Prerequisites
+Make sure you have the required runtimes and tools installed on your machine:
+- Node.js (v18+ recommended) / Appropriate runtime
+- Git
 
-foto
-<img width="643" height="554" alt="Screenshot 2025-11-10 112254" src="https://github.com/user-attachments/assets/af77d4de-6e77-468e-99f4-8cf2a12b9da7" />
-<img width="637" height="550" alt="Screenshot 2025-11-10 112306" src="https://github.com/user-attachments/assets/9d76d618-de39-4cfa-a235-7287279ec944" />
+### Installation & Local Setup
+```bash
+git clone https://github.com/MohammadKevin/analysis_data.git
+cd analysis_data
+pip install pandas
+python analisis_data.py
+```
+
+---
+
+## 👤 Author
+**Mohammad Kevin Arif Rudianto**
+- **GitHub:** [@MohammadKevin](https://github.com/MohammadKevin)
+- **Portfolio:** [portfolio-mohammadkevin.vercel.app](https://portfolio-mohammadkevin.vercel.app)
+- **LinkedIn:** [Mohammad Kevin](https://www.linkedin.com/in/mohammad-kevin-arif-rudianto-945733347)
+- **Email:** [kvn4.200581@gmail.com](mailto:kvn4.200581@gmail.com)
+
+---
+
+## 📄 License
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+<div align="center">
+⭐️ If you found this repository useful, please consider giving it a star!
+</div>
