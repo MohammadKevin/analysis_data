@@ -18,9 +18,9 @@ A Python statistical script designed to process student grade datasets (`nilai_s
 ---
 
 ## ✨ Key Features
-- ⚡ **Student score aggregation and grade ranking calculations**: Student score aggregation and grade ranking calculations
-- ⚡ **Class average and performance threshold evaluations**: Class average and performance threshold evaluations
-- ⚡ **Clean terminal-based statistical summary output**: Clean terminal-based statistical summary output
+- Student score aggregation and grade ranking calculations
+- Class average and performance threshold evaluations
+- Clean terminal-based statistical summary output
 
 ---
 
